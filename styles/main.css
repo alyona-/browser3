@@ -14,7 +14,11 @@ div {
     font-size: 16pt;
 }
 .block1 {
+<<<<<<< HEAD
 	float:left;
+=======
+	float: left;
+>>>>>>> gh-pages
 }
 
 .block2 {
